@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=tokyo-night
-Comment=Papirus icon theme
+Comment=Papirus icon theme with Qogir cursors
 Inherits=breeze,hicolor
 
 Example=folder
